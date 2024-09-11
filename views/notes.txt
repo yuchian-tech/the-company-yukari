@@ -1,0 +1,4 @@
+actions folder - we will save here the action of the program
+assets - we wikk sabe here the images and css of our program
+classes - we will save all our class files (properties and methods)
+views - we will save here the htmls and bootstraps code
